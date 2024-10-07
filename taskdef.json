@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "flask",
-            "image": "IMAGE_URI_PLACEHOLDER",
+            "image": "904233110791.dkr.ecr.ap-northeast-2.amazonaws.com/rusita/flask:green",
             "cpu": 0,
             "portMappings": [
                 {
